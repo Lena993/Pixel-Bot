@@ -1,0 +1,15 @@
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\bin\Debug\Pixel Bot App.exe.config
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\bin\Debug\Pixel Bot App.exe
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\bin\Debug\Pixel Bot App.pdb
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.csproj.AssemblyReference.cache
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\MainWindow.g.cs
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\App.g.cs
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App_MarkupCompile.cache
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App_MarkupCompile.lref
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\MainWindow.baml
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.g.resources
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel_Bot_App.Properties.Resources.resources
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.csproj.GenerateResource.cache
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.csproj.CoreCompileInputs.cache
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.exe
+C:\Users\lunar\source\repos\Pixel Bot App\Pixel Bot App\obj\Debug\Pixel Bot App.pdb
