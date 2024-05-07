@@ -1,7 +1,7 @@
 <h1>Pixel Bot Application</h1>
 
 <h2>Description</h2>
-An interesting project where you can use a specifix hex color pixel to open a program.
+An interesting project where you can use a specific hex color pixel to open a program.
 <br />
 
 
